@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ganesh Kumar Alamuri</h1>
-<p align="center">Full Stack Web Developer | JavaScript | TypeScript | React | Node.js</p>
+<p align="center">Full Stack Web Developer | MERN Specialist & AI Enthusiast</p>
 
 ---
 
