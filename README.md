@@ -1,57 +1,83 @@
 <h1 align="center">Hi 👋, I'm Ganesh Kumar Alamuri</h1>
-<h3 align="center">Full Stack Developer | React Enthusiast | Open Source Contributor</h3>
-
-<p align="center">
-  <a href="https://portfolio-git-master-agks-projects-082ffee3.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-visit-blue?style=for-the-badge&logo=vercel" alt="Portfolio Badge"/>
-  </a>
-  <a href="mailto:alamuriganeshkumar2606@gmail.com">
-    <img src="https://img.shields.io/badge/Email-contact-red?style=for-the-badge&logo=gmail" alt="Email Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ganeshkumaralamuri/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
-  </a>
-</p>
+<p align="center">Full Stack Web Developer | JavaScript | TypeScript | React | Node.js</p>
 
 ---
 
-🚀 I’m a passionate full-stack developer focused on building high-performance web applications with clean code, scalable architecture, and great user experience.
+### 🧑‍💻 About Me
 
-### 🧰 Tech Stack
-- **Frontend:** React, Next.js, Tailwind CSS, Material UI, Vite
-- **Backend:** Node.js, Express, MongoDB, Prisma
-- **Tools & Services:** Git, Vercel, Render, Stripe, Clerk, EmailJS, OpenAI APIs
+I'm a passionate full stack developer who thrives on solving real-world problems using modern web technologies. I enjoy working across the stack—from crafting sleek UIs to building efficient backends—and I’m always eager to learn and grow.
 
----
-
-### 📌 Featured Projects
-
-- 💼 [**AGK Store**](https://agk-store-nextjs.vercel.app)  
-  A full-featured e-commerce platform with user authentication, product management, and Stripe integration.  
-  `Next.js`, `Stripe`, `Prisma`, `Clerk`, `Tailwind CSS`  
-  🔗 [GitHub Repo](https://github.com/Ganesh-Kumar-Alamuri/agk-store-nextjs)
-
-- 💘 [**Dinder – AI Dating Bio Generator**](https://dinder-app-gjpv.onrender.com)  
-  An AI-powered app that generates witty dating bios using GPT-3 and provides a polished UI.  
-  `React`, `Express`, `OpenAI`, `MUI`, `Vite`, `Render`  
-  🔗 [GitHub Repo](https://github.com/Ganesh-Kumar-Alamuri/DatingSite)
+- 🌐 Portfolio: [portfolio-git-master-agks-projects-082ffee3.vercel.app](https://portfolio-git-master-agks-projects-082ffee3.vercel.app)  
+- 💼 GitHub: [github.com/Ganesh-Kumar-Alamuri](https://github.com/Ganesh-Kumar-Alamuri)  
+- 📫 Email: alamuriganeshkumar2606@gmail.com  
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ganesh-Kumar-Alamuri&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ganesh-Kumar-Alamuri&theme=radical" alt="GitHub Streak" />
-</p>
+**💻 Languages**  
+JavaScript • TypeScript • Python • C/C++
+
+**🎨 Frontend**  
+React.js • Redux Toolkit • Tailwind CSS • Material UI • Daisy UI • Shadcn/UI • React Router
+
+**🔧 Backend & Database**  
+Node.js • Express.js • Prisma • MongoDB • MySQL
+
+**🛠 Tools**  
+Git • GitHub • Vercel • Render • Jest (Beginner)
 
 ---
 
-### 📫 Let's Connect
-- 💌 Mail: [alamuriganeshkumar2606@gmail.com](mailto:alamuriganeshkumar2606@gmail.com)
-- 🌐 Portfolio: [portfolio](https://portfolio-git-master-agks-projects-082ffee3.vercel.app/)
-- 🔗 LinkedIn: [linkedin.com/in/ganeshkumaralamuri](https://www.linkedin.com/in/ganeshkumaralamuri/)
+### 📚 Currently Learning
+
+I'm currently expanding my skillset with:
+
+- PostgreSQL 🛢️  
+- Java ☕  
+- React Testing Library 🧪
 
 ---
 
-> *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
+### 📘 DSA Journey
+
+_"The journey of a thousand miles begins with a single step."_ — Lao Tzu
+
+I'm actively building a strong foundation in Data Structures and Algorithms (DSA) to enhance my problem-solving skills and prepare for technical interviews. Consistency is key—I regularly practice on platforms like LeetCode and HackerRank to sharpen my logical thinking and algorithmic mindset.
+
+- 🏅 **Max Rating on LeetCode:** 1670  
+- ✅ **Problems Solved:** 250+  
+
+Every problem solved is a step closer to mastering the craft, and I’m committed to continuous learning and improvement.
+
+
+---
+
+### 💼 Projects
+
+#### 🛒 AGK Store  
+An e-commerce platform with user authentication, admin dashboard, and Stripe payments.  
+**Stack:** Next.js, Stripe, Prisma, Clerk, Tailwind CSS  
+🔗 [Live](https://agk-store-nextjs.vercel.app) | [Code](https://github.com/Ganesh-Kumar-Alamuri/agk-store-nextjs)
+
+---
+
+#### 💘 Dinder – AI Dating Bio Generator  
+An AI-powered app using OpenAI GPT to generate personalized dating bios.  
+**Frontend:** React + Vite + MUI | **Backend:** Node.js, Express, OpenAI API  
+🔗 [Live](https://dinder-app-gjpv.onrender.com/) | [Code](https://github.com/Ganesh-Kumar-Alamuri/DatingSite)
+
+---
+
+#### 🧩 The Placement Park  
+A comprehensive CRM & ATS for placement cells. Manages student profiles, job listings, and applications.  
+**Stack:** React, Node.js, Express, MongoDB, Redux  
+🔗 [Live on Render](https://the-placement-park.onrender.com) | [Code](https://github.com/Ganesh-Kumar-Alamuri/ThePlacementPark)
+
+---
+
+### 📬 Connect With Me
+
+- 📧 **Email:** alamuriganeshkumar2606@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/ganeshkumaralamuri](https://www.linkedin.com/in/ganeshkumaralamuri/)  
+- 🌐 **Portfolio:** [portfolio](https://portfolio-git-master-agks-projects-082ffee3.vercel.app)  
