@@ -60,12 +60,6 @@ An e-commerce platform with user authentication, admin dashboard, and Stripe pay
 **Stack:** Next.js, Stripe, Prisma, Clerk, Tailwind CSS  
 🔗 [Live](https://agk-store-nextjs.vercel.app) | [Code](https://github.com/Ganesh-Kumar-Alamuri/agk-store-nextjs)
 
----
-
-#### 💘 Dinder – AI Dating Bio Generator  
-An AI-powered app using OpenAI GPT to generate personalized dating bios.  
-**Frontend:** React + Vite + MUI | **Backend:** Node.js, Express, OpenAI API  
-🔗 [Live](https://dinder-app-gjpv.onrender.com/) | [Code](https://github.com/Ganesh-Kumar-Alamuri/DatingSite)
 
 ---
 
