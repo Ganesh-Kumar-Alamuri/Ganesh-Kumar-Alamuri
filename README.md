@@ -66,13 +66,13 @@ An e-commerce platform with user authentication, admin dashboard, and Stripe pay
 #### 🧩 The Placement Park  
 A comprehensive CRM & ATS for placement cells. Manages student profiles, job listings, and applications.  
 **Stack:** React, Node.js, Express, MongoDB, Redux  
-🔗 [Live on Render](https://the-placement-park.onrender.com) | [Code](https://github.com/Ganesh-Kumar-Alamuri/ThePlacementPark)
+🔗 [Live](https://the-placement-park.onrender.com) | [Code](https://github.com/Ganesh-Kumar-Alamuri/ThePlacementPark)
 
 ---
 
 #### 💬 Real-time Chat App  
 A full-stack real-time chat application with user authentication, image upload, and live messaging using sockets.  
-**Stack:** React, Vite, Tailwind CSS, Express, MongoDB, Socket.IO, Zustand, Cloudinary
+**Stack:** React, Vite, Tailwind CSS, Express, MongoDB, Socket.IO, Zustand, Cloudinary  
 🔗 [Live](https://chatapp-ul8v.onrender.com/) | [Code](https://github.com/Ganesh-Kumar-Alamuri/ChatApp)
 
 ---
