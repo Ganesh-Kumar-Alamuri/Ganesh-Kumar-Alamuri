@@ -70,6 +70,13 @@ A comprehensive CRM & ATS for placement cells. Manages student profiles, job lis
 
 ---
 
+#### 💬 Real-time Chat App  
+A full-stack real-time chat application with user authentication, image upload, and live messaging using sockets.  
+**Stack:** React, Vite, Tailwind CSS, Express, MongoDB, Socket.IO  
+🔗 [Live](https://chatapp-ul8v.onrender.com/) | [Code](https://github.com/Ganesh-Kumar-Alamuri/ChatApp)
+
+---
+
 ### 📬 Connect With Me
 
 - 📧 **Email:** alamuriganeshkumar2606@gmail.com  
